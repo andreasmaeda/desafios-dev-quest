@@ -5,3 +5,8 @@
 span {
      font-weight: bold;
 }
+
+div p{
+     display: inline;
+}
+
