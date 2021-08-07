@@ -12,16 +12,16 @@ th, tr, td {
      padding: 10px;
 }
 
-.pdts-moda th {
+.produtos-moda th {
      background-color: #bb86fc;
      color: #ffffff;
 }
 
-.pdts-casa th {
+.produtos-casa th {
      background-color: #00c4b4;
      color: #ffffff
 }
-.pdts-moda td, .pdts-casa td {
+.produtos-moda td, .produtos-casa td {
      background-color: #424250;
      color: #ffffff
 }
